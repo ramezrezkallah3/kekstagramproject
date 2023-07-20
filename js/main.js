@@ -1,0 +1,6 @@
+import './uploadImage.js'
+import './scaleImage.js'
+import './filterImage.js'
+import './validateForm.js'
+import './getPics.js'
+import './showPic.js'
